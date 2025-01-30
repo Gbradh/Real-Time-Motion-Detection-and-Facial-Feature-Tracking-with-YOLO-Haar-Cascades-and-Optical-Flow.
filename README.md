@@ -1,4 +1,4 @@
-# Real-Time-Motion-Detection-and-Facial-Feature-Tracking-with-YOLO-Haar-Cascades-and-Optical-Flow.
+# Real-Time Motion Detection and Facial Feature Tracking using YOLO, Haar Cascades and Optical Flow.
 
 ## Introduction
  This project presents an advanced system for real-time motion detection and facial 
@@ -12,7 +12,11 @@ Lucas-Kanade optical flow for tracking movements across frames. The result is a
 sophisticated, real-time visual system capable of detailed analysis and responsive 
 tracking.
 
+yolo: https://docs.ultralytics.com/
 yolov3: https://github.com/ultralytics/yolov3
+Harcascade: https://github.com/opencv/opencv/tree/master/data/haarcascades
+Harcascade: http://pyimagesearch.com/2021/04/12/opencv-haar-cascades/
+Optical Flow: https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html
 
 ## Procedure
 To develop and test a real-time system for detecting motion and tracking facial 
